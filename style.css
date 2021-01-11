@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.panda-card {
+  border: 0;
+}
+.panda-card-footer {
+  background-color: white;
+  border: 0;
+}
+input {
+  width: 315px;
+}
