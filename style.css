@@ -2,6 +2,9 @@ body {
   margin: 0;
   padding: 0;
 }
+.carousel {
+  background-color: rgba(214, 51, 132, 0.2);
+}
 .panda-card {
   border: 0;
 }
@@ -9,6 +12,31 @@ body {
   background-color: white;
   border: 0;
 }
+#subscribe {
+  background-color: rgba(214, 51, 132, 0.3);
+}
 input {
   width: 315px;
 }
+
+/* --bs-blue: #0d6efd;
+--bs-indigo: #6610f2;
+ #6f42c1;
+--bs-pink: #d63384;
+--bs-red: #dc3545;
+--bs-orange: #fd7e14;
+--bs-yellow: #ffc107;
+--bs-green: #198754;
+--bs-teal: #20c997;
+--bs-cyan: #0dcaf0;
+--bs-white: #fff;
+--bs-gray: #6c757d;
+--bs-gray-dark: #343a40;
+--bs-primary: #0d6efd;
+--bs-secondary: #6c757d;
+--bs-success: #198754;
+--bs-info: #0dcaf0;
+--bs-warning: #ffc107;
+--bs-danger: #dc3545;
+--bs-light: #f8f9fa;
+--bs-dark: #212529; */
