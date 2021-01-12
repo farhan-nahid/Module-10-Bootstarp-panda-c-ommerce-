@@ -2,8 +2,11 @@ body {
   margin: 0;
   padding: 0;
 }
+nav {
+  background: rgba(202, 191, 191, 0.5);
+}
 .carousel {
-  background-color: rgba(214, 51, 132, 0.2);
+  background-color: #feeae9;
 }
 .panda-card {
   border: 0;
